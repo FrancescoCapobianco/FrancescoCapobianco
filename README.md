@@ -14,7 +14,7 @@ I am currently consolidating my foundations in Object-Oriented Programming and B
   <img src="https://img.shields.io/badge/Python-B8860B?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**Web Development (Basics):**
+**Web Development:**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
