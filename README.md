@@ -5,7 +5,7 @@ Passionate about software development, I enjoy translating complex logic and pro
 
 I am currently consolidating my foundations in Object-Oriented Programming and Backend development, working on both academic and personal projects.
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 **Main Languages:**
 <p>
@@ -31,7 +31,7 @@ I am currently consolidating my foundations in Object-Oriented Programming and B
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 
-- ✉️ Email: [francescocapobianco00@gmail.com](mailto:francescocapobianco00@gmail.com)
-- 💼 LinkedIn: [francesco massimo capobianco](https://www.linkedin.com/in/francesco-massimo-capobianco-90b4401b5/)
+- Email: [francescocapobianco00@gmail.com](mailto:francescocapobianco00@gmail.com)
+- LinkedIn: [francesco massimo capobianco](https://www.linkedin.com/in/francesco-massimo-capobianco-90b4401b5/)
