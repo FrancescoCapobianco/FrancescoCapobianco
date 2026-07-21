@@ -1,6 +1,6 @@
 # Hi, I'm Francesco! 👋
 
-Final-year **Computer Science (L-31)** student at the University of Catania.
+Final-year **Computer Science (L-31)** student at the University of Catania. \\
 Passionate about software development, I enjoy translating complex logic and problems into clean code and functional architectures. 
 
 I am currently consolidating my foundations in Object-Oriented Programming and Backend development, working on both academic and personal projects.
