@@ -40,7 +40,7 @@ I am currently consolidating my foundations in Object-Oriented Programming and B
 **IDE:**
 <p align="left">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual studio code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
 ---
