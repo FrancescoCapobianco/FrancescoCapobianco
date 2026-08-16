@@ -5,6 +5,8 @@ Passionate about software development, I enjoy translating complex logic and pro
 
 I am currently consolidating my foundations in Object-Oriented Programming and Backend development, working on both academic and personal projects.
 
+---
+
 ### Tech Stack
 
 **Main Languages:**
