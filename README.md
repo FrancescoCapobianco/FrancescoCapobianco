@@ -55,8 +55,6 @@ I am currently consolidating my foundations in Object-Oriented Programming and B
 
 ---
 
----
-
 ### How to reach me
 
 - Email: [francescocapobianco00@gmail.com](mailto:francescocapobianco00@gmail.com)
