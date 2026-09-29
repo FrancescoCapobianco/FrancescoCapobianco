@@ -47,6 +47,16 @@ I am currently consolidating my foundations in Object-Oriented Programming and B
 
 ---
 
+### Projects
+
+| Project Name | Brief Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**FakeFinder**](https://github.com/FrancescoCapobianco/FakeFinder) | Mobile app for deepfake detection using an ONNX model for on-device inference. | `Java`, `Android Studio`, `Onnx` |
+
+---
+
+---
+
 ### How to reach me
 
 - Email: [francescocapobianco00@gmail.com](mailto:francescocapobianco00@gmail.com)
