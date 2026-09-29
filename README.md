@@ -55,7 +55,7 @@ I am currently consolidating my foundations in Object-Oriented Programming and B
 | [**ASI07-Insecure_Agent_Communication**](https://github.com/FrancescoCapobianco/ASI07-Insecure_Agent_Communication) | CyberSecurity's Project : BLUE TEAM for ASI07. Zero Trust Defense-in-Depth architecture (mTLS) to mitigate Insecure Inter-Agent Communication vulnerabilities. | `Python`, `Flask`, `CrewAI`, `Ollama` |
 | [**Behavioral_Analysis_for_ECommerce**](https://github.com/FrancescoCapobianco/Behavioral_Analysis_for_ECommerce) | Technologies for Advanced Programming's Project: Real-time data pipeline using K-Means clustering for financial and behavioral user profiling. | `Python`, `Docker`, `Kafka`, `Spark`, `Elastic`, `Kibana` |
 | [**FakeFinder**](https://github.com/FrancescoCapobianco/FakeFinder) | Mobile Programming's Project: Mobile app for deepfake detection using an ONNX model for on-device inference. | `Java`, `Android Studio`, `Onnx` |
-| [**PongArena**](https://github.com/UniCT-WebDevelopment/PongArena) | Real-time, multiplayer web-based Pong game featuring an authoritative server, instant matchmaking, and leaderboards. | `Html`, `CSS`, `Javascript`, `Node.js`, `Express.js`, `Socket.IO`, `SQLite` |
+| [**PongArena**](https://github.com/UniCT-WebDevelopment/PongArena) | Web Programming's Project: Real-time, multiplayer web-based Pong game featuring an authoritative server, instant matchmaking, and leaderboards. | `Html`, `CSS`, `Javascript`, `Node.js`, `Express.js`, `Socket.IO`, `SQLite` |
 
 ---
 
