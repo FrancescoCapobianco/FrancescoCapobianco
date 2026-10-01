@@ -1,9 +1,8 @@
 # Hi, I'm Francesco!
 
-Master's student in Computer Science (LM-18) at the University of Catania, holding a Bachelor's degree in Computer Science (L-31) from the same institution.
-Passionate about software development, I enjoy translating complex logic and problems into clean code and functional architectures. 
+Master's student in Computer Science [Distributed Architectures and Cybersecurity] (LM-18) at the University of Catania, holding a Bachelor's degree in Computer Science [Programming Web, Mobile and Virtualized Environment] (L-31) from the same institution. Passionate about software development and cybersecurity, I enjoy translating complex logic and problems into clean code, secure systems, and functional architectures.
 
-I am currently consolidating my foundations in Object-Oriented Programming and Backend development, working on both academic and personal projects.
+I am currently consolidating my foundations in Object-Oriented Programming, Backend development, and network security, working on both academic and personal projects.
 
 ---
 
