@@ -15,7 +15,7 @@ I am currently consolidating my foundations in Object-Oriented Programming, Back
   <img src="https://img.shields.io/badge/Python-B8860B?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**Frameworks:**
+**Frameworks & Big Data:**
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
