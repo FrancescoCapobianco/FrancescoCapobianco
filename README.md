@@ -53,7 +53,7 @@ I am currently consolidating my foundations in Object-Oriented Programming, Back
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
-  <img src="https://shields.io" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-D2691E?style=for-the-badge&logo=jupyternotebook&logoColor=white" alt="Jupyter Notebook">
 </p>
 
 ---
