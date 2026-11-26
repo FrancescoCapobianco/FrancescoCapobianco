@@ -50,6 +50,12 @@ I am currently consolidating my foundations in Object-Oriented Programming, Back
 
 ---
 
+### Bachelor's Thesis
+[**Tool_Java_for_SmartContract_Testing**](https://github.com/FrancescoCapobianco/Tool_Java_for_SmartContract_Testing) — A Java middleware enabling TDD and off-chain testing of Solidity Smart Contracts in JUnit-based enterprise environments. Built with **Facade**, **Chain of Responsibility**, and **Functional Factory** patterns to abstract Web3j boilerplate, handle $O(1)$ RBAC identity switching, decode native EVM reverts, and enforce transaction gas limits.  
+**Tech Stack:** `Java`, `Solidity`, `Web3j`, `JUnit 5`, `Ganache`, `Ethereum`
+
+---
+
 ### Projects
 
 | Project Name | Brief Description | Tech Stack |
