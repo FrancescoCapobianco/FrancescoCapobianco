@@ -38,9 +38,9 @@ I am currently consolidating my foundations in Object-Oriented Programming, Back
 
 **Blockchain & Web3:**
 <p>
-  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-  ![Ganache](https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logoColor=black)
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logoColor=black" alt="Ganache" />
 </p>
 
 **Systems & Tools:**
